@@ -1,2 +1,2 @@
 # jira-like-app
-ntpws project - Initial commit
+ntpws project
