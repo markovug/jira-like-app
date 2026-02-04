@@ -1,0 +1,6 @@
+Ime i prezime: Marko Vuglenović
+Predmet: Napredne tehnike programiranja web servisa (.open-source)
+Naziv projekta: Jira-like aplikacija
+
+GitHub: https://github.com/markovug/jira-like-app
+YouTube: https://youtu.be/T6bjYXjJuqE
