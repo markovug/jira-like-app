@@ -161,10 +161,6 @@ export default function ProjectIssues() {
             >
               {creating ? "Creating..." : "Create issue"}
             </button>
-
-            <div className="text-xs opacity-60">
-              Tip: after creating, go to Board for drag & drop.
-            </div>
           </div>
         </form>
 

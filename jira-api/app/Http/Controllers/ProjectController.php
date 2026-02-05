@@ -19,6 +19,7 @@ class ProjectController extends Controller
         $data = $request->validate([
             'name' => ['required', 'string', 'max:255'],
             'key'  => ['required', 'string', 'max:20', 'regex:/^[A-Z][A-Z0-9_]*$/'],
+            'description' => ['nullable', 'string'],
         ]);
 
         $data['key'] = strtoupper($data['key']);
